@@ -115,6 +115,7 @@ This is a single, self-contained notebook covering vectors, matrices, decomposit
 ├── README.md                              # You are here
 ├── calculative_foundation.ipynb           # Main analysis notebook (Tasks 1–12)
 ├── calculative_foundation_dataset.csv     # Student performance dataset
+├── Video 
 └── charts/                                # Exported chart images (PNG)
     ├── 01_student_score_vectors.png
     ├── 02_vector_projection.png
